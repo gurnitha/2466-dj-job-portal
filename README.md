@@ -90,3 +90,10 @@ Membuat aplikasi JOB PORTAL
         new file:   app/main/models.py
         new file:   app/main/tests.py
         new file:   app/main/views.py
+
+
+#### 3. Hello World! using HttpResponse
+
+        modified:   README.md
+        modified:   app/main/views.py
+        modified:   config/urls.py
