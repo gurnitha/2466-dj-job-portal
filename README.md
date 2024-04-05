@@ -57,3 +57,36 @@ Membuat aplikasi JOB PORTAL
         new file:   config/urls.py
         new file:   config/wsgi.py
         new file:   manage.py
+
+
+#### 2. Membuat app django dengan nama 'main'
+
+        (jobportal) λ REM: Membuat app django dengan nama 'main'
+        (jobportal) λ mkdir app\main
+        (jobportal) λ django-admin startapp main app\main
+        (jobportal) λ ls
+        app/  config/  manage.py*  README.md  venv312503/
+
+        E:\_WORKSPACE\2024\django\2466\2466-dj-job-portal(main -> origin)
+        (jobportal) λ tree app/main /f
+        Folder PATH listing for volume Local Disk
+        Volume serial number is 0000006B 42EB:BBDC
+        E:\_WORKSPACE\2024\DJANGO\2466\2466-DJ-JOB-PORTAL\APP\MAIN
+        │   admin.py
+        │   apps.py
+        │   models.py
+        │   tests.py
+        │   views.py
+        │   __init__.py
+        │
+        └───migrations
+                __init__.py
+
+        modified:   README.md
+        new file:   app/main/__init__.py
+        new file:   app/main/admin.py
+        new file:   app/main/apps.py
+        new file:   app/main/migrations/__init__.py
+        new file:   app/main/models.py
+        new file:   app/main/tests.py
+        new file:   app/main/views.py
