@@ -106,3 +106,12 @@ Membuat aplikasi JOB PORTAL
 
         modified:   README.md
         modified:   config/settings.py
+
+
+#### 2. Membuat home page menggunakan urls, views, dan templates
+
+        modified:   README.md
+        new file:   app/main/urls.py
+        modified:   app/main/views.py
+        modified:   config/urls.py
+        new file:   templates/main/index.html

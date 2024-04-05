@@ -1,15 +1,13 @@
 # config/urls.py
 
-# Django moduls
+# Django modules
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include
 
-# Local
-from app.main.views import home_view
 
 urlpatterns = [
     # admin
     path("admin/", admin.site.urls),
     # app/main
-    path("", home_view),
+    path("", include("app.main.urls", namespace="main")),
 ]
