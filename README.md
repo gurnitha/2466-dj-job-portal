@@ -100,3 +100,9 @@ Membuat aplikasi JOB PORTAL
 
 
 ## 3. TEMPLATES DJANGO 
+
+
+#### 1. Mengaktifkan templates django
+
+        modified:   README.md
+        modified:   config/settings.py
