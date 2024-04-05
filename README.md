@@ -97,3 +97,6 @@ Membuat aplikasi JOB PORTAL
         modified:   README.md
         modified:   app/main/views.py
         modified:   config/urls.py
+
+
+## 3. TEMPLATES DJANGO 
