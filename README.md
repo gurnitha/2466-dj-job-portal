@@ -12,3 +12,8 @@ Membuat aplikasi JOB PORTAL
 
         modified:   .gitignore
         modified:   README.md
+
+
+#### 3. Menginstal Django versi 5.0.3
+
+        modified:   README.md
