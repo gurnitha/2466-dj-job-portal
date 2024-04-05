@@ -17,3 +17,6 @@ Membuat aplikasi JOB PORTAL
 #### 3. Menginstal Django versi 5.0.3
 
         modified:   README.md
+
+
+## 2. PROYEK DAN APPS DJANGO 
